@@ -1,0 +1,6 @@
+{
+  "name": "TripGuard AI",
+  "description": "Your Autonomous Travel Recovery Agent — Detect train disruptions, analyze live connections, and recover your journey with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
